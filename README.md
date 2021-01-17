@@ -1,6 +1,6 @@
-## Hi, I am Nirantak
+## Hi, I am Nirantak 👋🏼
 
-Software Engineer @browserstack
+Software Engineer @ BrowserStack
 
 ### Find me here
 
@@ -12,15 +12,8 @@ Software Engineer @browserstack
 
 ### I work with
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" height="40px" />
-<img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
-<img src="https://simpleicons.org/icons/windows.svg" alt="Windows" height="40px" />
-<img src="https://simpleicons.org/icons/apple.svg" alt="macOS" height="40px" />
-<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="40px" />
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" height="30px" /> <img src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" height="30px" /> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJS" height="30px" /> <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="30px" /> <img src="https://simpleicons.org/icons/windows.svg" alt="Windows" height="30px" /> <img src="https://simpleicons.org/icons/apple.svg" alt="macOS" height="30px" /> <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="30px" /> <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="30px" />
 
 ### I am learning
 
-<img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" height="40px" />
-<img src="https://simpleicons.org/icons/go.svg" alt="Go" height="40px" />
+<img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" height="30px" /> <img src="https://simpleicons.org/icons/go.svg" alt="Go" height="30px" />
