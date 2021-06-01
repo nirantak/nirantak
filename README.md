@@ -11,16 +11,8 @@ Senior Software Engineer @ BrowserStack
 
 ### I work with
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" title="Python" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" title="Ruby" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/nodedotjs.svg" alt="NodeJS" title="NodeJS" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/docker.svg" alt="Docker" title="Docker" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/ansible.svg" alt="Ansible" title="Ansible" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/apple.svg" alt="macOS" title="macOS" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" title="Linux" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/windows.svg" alt="Windows" title="Windows" height="30px" style="background-color: white;" />
+<img src="icons/python.png" alt="Python" title="Python" height="30px" /> <img src="icons/ruby.png" alt="Ruby" title="Ruby" height="30px" /> <img src="icons/nodejs.png" alt="NodeJS" title="NodeJS" height="30px" /> <img src="icons/docker.png" alt="Docker" title="Docker" height="30px" /> <img src="icons/ansible.png" alt="Ansible" title="Ansible" height="30px" /> <img src="icons/macos.png" alt="macOS" title="macOS" height="30px" /> <img src="icons/linux.png" alt="Linux" title="Linux" height="30px" /> <img src="icons/windows.png" alt="Windows" title="Windows" height="30px" />
 
 ### I am learning
 
-<img src="https://simpleicons.org/icons/go.svg" alt="Go" title="Go" height="30px" style="background-color: white;" />
-<img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="30px" style="background-color: white;" />
+<img src="icons/golang.png" alt="Go" title="Go" height="30px" /> <img src="icons/k8s.png" alt="Kubernetes" title="Kubernetes" height="30px" />
