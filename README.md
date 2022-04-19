@@ -1,6 +1,6 @@
 ## Hi, I am Nirantak 👋🏼
 
-Senior Software Engineer @ BrowserStack
+Engineer @ LinkedIn
 
 ### Find me here
 
