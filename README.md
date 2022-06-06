@@ -1,6 +1,6 @@
 ## Hi, I am Nirantak 👋🏼
 
-Engineering @ LinkedIn
+Engineer @ LinkedIn
 
 ### Find me here
 
@@ -10,7 +10,7 @@ Engineering @ LinkedIn
 
 ### I work with
 
-<img src="icons/python.png" alt="Python" title="Python" height="30px" /> <img src="icons/ruby.png" alt="Ruby" title="Ruby" height="30px" /> <img src="icons/nodejs.png" alt="NodeJS" title="NodeJS" height="30px" /> <img src="icons/docker.png" alt="Docker" title="Docker" height="30px" /> <img src="icons/ansible.png" alt="Ansible" title="Ansible" height="30px" /> <img src="icons/macos.png" alt="macOS" title="macOS" height="30px" /> <img src="icons/linux.png" alt="Linux" title="Linux" height="30px" /> <img src="icons/windows.png" alt="Windows" title="Windows" height="30px" />
+<img src="icons/python.png" alt="Python" title="Python" height="30px" /> <img src="icons/ruby.png" alt="Ruby" title="Ruby" height="30px" /> <img src="icons/nodejs.png" alt="NodeJS" title="NodeJS" height="30px" /> <img src="icons/mysql.png" alt="MySQL" title="MySQL" height="40px" /> <img src="icons/docker.png" alt="Docker" title="Docker" height="30px" /> <img src="icons/ansible.png" alt="Ansible" title="Ansible" height="30px" /> <img src="icons/linux.png" alt="Linux" title="Linux" height="30px" /> <img src="icons/macos.png" alt="macOS" title="macOS" height="30px" /> <img src="icons/windows.png" alt="Windows" title="Windows" height="30px" />
 
 ### I am learning
 
